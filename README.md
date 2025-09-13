@@ -1,12 +1,8 @@
 
 <h1 align="center">Hi there! / Привет! 👋</h1>
 
-  <h4 align="center" > <i> I am passionate about programming and actively studying development. GitHub is a platform for me to experiment, learn, and create projects.
-</i> </h4>
-
-<h4 align="center"> <i>
-  Увлечён программированием и активно изучаю разработку. GitHub для меня - это площадка для экспериментов, обучения и создания проектов. 
-</i> </h4> 
+  <p align="center" > <i> I am passionate about programming and actively studying development. GitHub is a platform for me to experiment, learn, and create projects. Увлечён программированием и активно изучаю разработку. GitHub для меня - это площадка для экспериментов, обучения и создания проектов. 
+</i> </p>
 
 <hr style="border:2px solid gray">
 
