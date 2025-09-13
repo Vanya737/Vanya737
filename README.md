@@ -10,7 +10,7 @@
 
 <hr style="border:2px solid gray">
 
-  <div align="left"> 
+  <div align="center"> 
     <h3> 📊 GitHub Stats / Статистика GitHub:  </h3>
           <img width="350" height="200" src="https://nirzak-streak-stats.vercel.app/?user=Vanya737&theme=material-palenight&hide_border=true">
     <div>
@@ -21,6 +21,9 @@
   <!-- <img align="right" width="300" height="200"  width="400" src="https://github.com/user-attachments/assets/ce364921-cbdd-431e-b65d-14ceb15e370e"> -->
      
 </div>
+
+
+
 
 
 
