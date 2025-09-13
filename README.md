@@ -15,15 +15,15 @@
 <table align="center">
   <tr>
     <td>
-      <img width="450" height="300" src="https://github-readme-stats.vercel.app/api?username=Vanya737&theme=material-palenight&hide_border=true&include_all_commits=false&count_private=false"> 
+      <img width="350" height="200" src="https://github-readme-stats.vercel.app/api?username=Vanya737&theme=material-palenight&hide_border=true&include_all_commits=false&count_private=false"> 
     </td>
     <td>
-      <img width="400" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanya737&theme=material-palenight&hide_border=true&include_all_commits=false&count_private=false&layout=compact">
+      <img width="300" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanya737&theme=material-palenight&hide_border=true&include_all_commits=false&count_private=false&layout=compact">
     </td>
   </tr>
   <tr>
     <td colspan = "2" align="center">
-      <img width="600" height="600" src="https://nirzak-streak-stats.vercel.app/?user=Vanya737&theme=material-palenight&">
+      <img width="500" height="500" src="https://nirzak-streak-stats.vercel.app/?user=Vanya737&theme=material-palenight&">
     </td>
   </tr>
 </table>
