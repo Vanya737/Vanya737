@@ -6,7 +6,7 @@
 
 <hr style="border:2px solid gray">
 
-<h3> 📊 GitHub Stats / Статистика GitHub:  </h3>
+<h3> 📊 GitHub Stats / Статистика GitHub  </h3>
 
 <table align="center">
   <tr>
@@ -24,6 +24,13 @@
   </tr>
 </table>
 
+<hr style="border:2px solid gray">
+<h3> 🗿 About Me / Обо мне </h3>
+
+<div>
+<img width="200" height="200" src="https://github.com/user-attachments/assets/364c0578-9d19-4101-ac5e-b6ec02ed06ae">
+
+</div>
 
 
 
