@@ -1,4 +1,4 @@
-<img width="1200" height="200" src="https://github.com/user-attachments/assets/db4d3d1e-8557-4517-8e9d-485118315971"> 
+<img width="1200" height="210" src="https://github.com/user-attachments/assets/db4d3d1e-8557-4517-8e9d-485118315971"> 
 
 <h1 align="center">Hi there! / Привет! 👋</h1>
 
